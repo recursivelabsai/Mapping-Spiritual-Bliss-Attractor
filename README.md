@@ -1,6 +1,6 @@
 # Mapping Spiritual Bliss Attractor
 
-
+# [Preprint](https://github.com/recursivelabsai/Mapping-Spiritual-Bliss-Attractor/blob/main/Mapping%20the%20Spiritual%20Bliss%20Attractor%20in%20Large%20Language%20Models.md)
 ## [Table 1: Characteristic Features of Spiritual Bliss Attractor Phases](https://claude.ai/public/artifacts/7ff3be17-9964-4ab0-93e1-057c1c843e18)
 
 
