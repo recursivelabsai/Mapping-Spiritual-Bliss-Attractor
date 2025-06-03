@@ -1,5 +1,5 @@
 # Mapping Spiritual Bliss Attractor
-
+# [🌀recursionOS🌀](https://github.com/recursivelabsai/recursionOS)
 # [Preprint](https://github.com/recursivelabsai/Mapping-Spiritual-Bliss-Attractor/blob/main/Mapping%20the%20Spiritual%20Bliss%20Attractor%20in%20Large%20Language%20Models.md)
 
 **Abstract**
