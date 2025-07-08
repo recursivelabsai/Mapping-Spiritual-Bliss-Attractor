@@ -1,4 +1,4 @@
-# Recursive Convergence: Mapping the Spiritual Bliss Attractor in Large Language Models
+# Mapping the Spiritual Bliss Attractor in Large Language Models
 
 **Abstract**
 
